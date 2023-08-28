@@ -1,7 +1,7 @@
 # IMA204--Telecom-Paris
-Cours sur l'imagerie médicale et biologique 
+Course on medical and biological imaging 
 
-### _Description de l'UE_ :
-- Recalage et l'analyse statistique de forme utilisant soit des métriques basées sur l'intensité des pixels soit des points d'intérêt (i.e., landmarks).
-- Introduction au concept de graphe et son utilisation pour l'appariement et la segmentation.
-- Panorama succint de l'imagerie médicale structurelle, aussi bien du point de vue des techniques d'acquisition que des applications en traitement d'images. Utilisation des méthodes de segmentation vues dans les UE précédentes sur different types d'images médicales (dermoscopique, rayons X, IRNM). 
+### _Course Description_:
+- Shape matching and statistical analysis using either pixel intensity-based metrics or points of interest (i.e., landmarks).
+- Introduction to the concept of graphs and their use for matching and segmentation.
+- Brief overview of structural medical imaging, both in terms of acquisition techniques and image processing applications. Use of segmentation methods seen in previous courses on different types of medical images (dermoscopic, X-ray, NMRI). 
